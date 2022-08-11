@@ -4,6 +4,6 @@
 * [Рянкан](ryankan) 
 * [Пара с тайлом](tatcu-toycu)
 * [Нобетан](nobetan)
-* [Шунцу с тайлом](shuncu-tile)
+* [Сет с пропуском](shuncu-tile)
 * [Анко с тайлом](anko-tile)
 * [Санменчан](Sanmenchan)
