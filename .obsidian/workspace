@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "cdf11bff7522442a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9a84d80d8b5af80",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tatcu-toycu.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dbce2df63c13e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15b7bcffdf5205c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f63232e57ceb512",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e3a6e497fa61de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5abe4e043c44a212",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99455159634d0fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "74bab540101b46af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f35d4387161a7da8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tatcu-toycu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "627e4e4a3090f454",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tatcu-toycu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "980bcff1cab17795",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31acbd0b0864adab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tatcu-toycu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9a84d80d8b5af80",
+  "lastOpenFiles": [
+    "complex-form.md",
+    "tatcu-toycu.md",
+    "simple-form.md",
+    "ryankan.md",
+    "kanchan.md",
+    "ryanmen.md",
+    "penchan.md",
+    "intro.md",
+    "markdown.md",
+    "markdown-notebooks.md"
+  ]
+}
